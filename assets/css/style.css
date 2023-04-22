@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+}
+header {
+    height: 12vh;
+}
+nav {
+    display: flex;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+nav img {
+    border-radius: 51%;
+    background-color: aquamarine;
+    height: 10vh;
+}
+
+.menu {
+    display: none;
+}
+
+nav ul {
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 2vw;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    nav {
+        display: block;
+    }
+    .menu {
+        display: block;
+        float: right;
+        height: 9vh;
+    }
+    ul {
+        display: none;
+    }
+
+    input[type="checkbox"] {
+        background-color: blue;
+        width: 6vh;
+        margin-right: 5vw;
+    }
+
+    input:checked ~ ul {
+     display: list-item;   
+    }
+    nav li {
+        display: block;
+        text-align: center;
+        margin-bottom: 2vh;
+    }
+
+    ul:last-child {
+        padding-bottom: 2vh;
+    }
+}
