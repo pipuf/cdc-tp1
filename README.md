@@ -33,6 +33,10 @@ https://github.com/pipuf/cdc-tp1
 https://pipuf.github.io/cdc-tp1/
 ## Confluence
 https://codo-a-codo-g2.atlassian.net/wiki/spaces/TDW/
+## Maquetas
+https://t.ly/gPdbI
+## API utilizada 
+https://themealdb.com/api.php
 
 # Planificacion
 Se organizó el roadmap en 4 sprints de la siguiente manera
