@@ -1,5 +1,5 @@
 # Naceluja
-Proyecto
+# Proyecto
 El proyecto se basa en el diseño de un sitio web de un restaurant de comida variada. Consta de 4 páginas, 1 formulario, 3 API, iFrame y animaciones. La selección de color se basa en la psicología del color que suelen utilizar las empresas de cómida rápida.
 
 # Equipo
@@ -22,3 +22,16 @@ https://www.linkedin.com/in/cecilia-paolucci/
 ## Jazmín Irurzun
 DNI: 46.853.036
 jazirurzun@gmail.com
+
+# Dinámica de equipo
+El equipo se reunió luego de cada clase desde el envío de la consigna. En principio, se organizó el roadmap en 4 sprints con subdivisión de tareas para la definición de la guía de estilo. La construcción se hizo con el equipo reunido en videollamadas y con la participación grupal en todos los requerimientos de manera que cada miembro gane experiencia en todos los conceptos aplicados al proyecto.
+
+# Documentación
+## Repo 
+https://github.com/pipuf/cdc-tp1
+## Website
+https://pipuf.github.io/cdc-tp1/
+## Confluence
+https://codo-a-codo-g2.atlassian.net/wiki/spaces/TDW/
+
+
