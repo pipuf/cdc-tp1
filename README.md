@@ -4,24 +4,24 @@ El proyecto se basa en el diseño de un sitio web de un restaurant de comida var
 
 # Equipo
 ## Lucía Cartasso
-DNI: 41.474.963
-luciacartasso@gmail.com
-https://www.linkedin.com/in/lucia-cartasso
+- DNI: 41.474.963
+- luciacartasso@gmail.com
+- https://www.linkedin.com/in/lucia-cartasso
 
 
 ## Federico Campo
-DNI: 36.647.839
-federico.campo92@gmail.com
-https://www.linkedin.com/in/gast%C3%B3n-campo-4a8360198/
+- DNI: 36.647.839
+- federico.campo92@gmail.com
+- https://www.linkedin.com/in/gast%C3%B3n-campo-4a8360198/
 
 ## Cecilia Paolucci
-DNI: 22.507.347
-m.cecilia.paolucci@gmail.com
-https://www.linkedin.com/in/cecilia-paolucci/
+- DNI: 22.507.347
+- m.cecilia.paolucci@gmail.com
+- https://www.linkedin.com/in/cecilia-paolucci/
 
 ## Jazmín Irurzun
-DNI: 46.853.036
-jazirurzun@gmail.com
+- DNI: 46.853.036
+- jazirurzun@gmail.com
 
 # Dinámica de equipo
 El equipo se reunió luego de cada clase desde el envío de la consigna. En principio, se organizó el roadmap en 4 sprints con subdivisión de tareas para la definición de la guía de estilo. La construcción se hizo con el equipo reunido en videollamadas y con la participación grupal en todos los requerimientos de manera que cada miembro gane experiencia en todos los conceptos aplicados al proyecto.
@@ -50,17 +50,17 @@ Cada 2 semanas (sprints)
 
 Sprints (fecha de entrega 18/5)
 -	s1 30/3 al 5/4 (1 semana)
-      o	decidir Proyecto
-      o	definir diseño
-      o	completar planilla del grupo
+      - decidir Proyecto
+      - definir diseño
+      - completar planilla del grupo
 -	s2 6/4 al 19/4
-      o	maquetar paginas
-      o	aplicar estilos
+      - maquetar paginas
+      - aplicar estilos
 -	s3 20/4 al 3/5
-      o	validaciones formulario
-      o	envio de email (opcional)
+      -	validaciones formulario
+      -	envio de email (opcional)
 -	s4 4/5 al 17/5
-      o	consumo de API
+      -	consumo de API
 
 
 
