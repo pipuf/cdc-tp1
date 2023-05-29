@@ -34,4 +34,33 @@ https://pipuf.github.io/cdc-tp1/
 ## Confluence
 https://codo-a-codo-g2.atlassian.net/wiki/spaces/TDW/
 
+# Planificacion
+Se organizó el roadmap en 4 sprints de la siguiente manera
+
+## Tareas nivel 1 (epicas)
+1. decidir proyecto
+2. definir diseño
+3. maquetar las 4 paginas
+4  construir las 4 paginas
+5. deployar el proyecto
+
+## Sprints
+Cada 2 semanas (sprints)
+-	planificación y asignacion de tareas para las prox 2 semanas 
+
+Sprints (fecha de entrega 18/5)
+-	s1 30/3 al 5/4 (1 semana)
+      o	decidir Proyecto
+      o	definir diseño
+      o	completar planilla del grupo
+-	s2 6/4 al 19/4
+      o	maquetar paginas
+      o	aplicar estilos
+-	s3 20/4 al 3/5
+      o	validaciones formulario
+      o	envio de email (opcional)
+-	s4 4/5 al 17/5
+      o	consumo de API
+
+
 
