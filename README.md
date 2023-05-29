@@ -45,7 +45,7 @@ Se organizó el roadmap en 4 sprints de la siguiente manera
 1. decidir proyecto
 2. definir diseño
 3. maquetar las 4 paginas
-4  construir las 4 paginas
+4. construir las 4 paginas
 5. deployar el proyecto
 
 ## Sprints
