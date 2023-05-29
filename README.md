@@ -23,9 +23,6 @@ El proyecto se basa en el diseño de un sitio web de un restaurant de comida var
 - DNI: 46.853.036
 - jazirurzun@gmail.com
 
-# Dinámica de equipo
-El equipo se reunió luego de cada clase desde el envío de la consigna. En principio, se organizó el roadmap en 4 sprints con subdivisión de tareas para la definición de la guía de estilo. La construcción se hizo con el equipo reunido en videollamadas y con la participación grupal en todos los requerimientos de manera que cada miembro gane experiencia en todos los conceptos aplicados al proyecto.
-
 # Documentación
 ## Repo 
 https://github.com/pipuf/cdc-tp1
@@ -66,5 +63,7 @@ Sprints (fecha de entrega 18/5)
 -	s4 4/5 al 17/5
       -	consumo de API
 
+# Dinámica de equipo
+El equipo se reunió luego de cada clase desde el envío de la consigna. En principio, se organizó el roadmap en 4 sprints con subdivisión de tareas para la definición de la guía de estilo. La construcción se hizo con el equipo reunido en videollamadas y con la participación grupal en todos los requerimientos de manera que cada miembro gane experiencia en todos los conceptos aplicados al proyecto.
 
 
